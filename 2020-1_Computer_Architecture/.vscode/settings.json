@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "bitset": "cpp",
-        "iostream": "cpp",
-        "xstring": "cpp",
-        "ostream": "cpp"
-    }
-}
