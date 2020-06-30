@@ -1,0 +1,15 @@
+L 00001000 #Miss
+L 00002000 #Miss
+L 00003000 #Miss
+L 00004000 #Miss
+L 00001000 #Hit
+L abcd3000 #Miss
+L 00005000 #Miss
+L edca7000 #Miss
+L 0000100c #Miss
+L abcd300c #Miss
+L 0000500c #Miss
+L 00001004 #Miss
+L 00005008 #Miss
+L 00001000 #Miss
+L abcd3004 #Hit
